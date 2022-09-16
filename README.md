@@ -6,7 +6,7 @@
 <p>&#9657 💬 Ask me about JavaScript.</p>
 <p>&#9657 📫 How to reach me: <a href="https://www.fiverr.com/ricardxalvarez" target="_blank">ricardxalvarez</a> on Fiverr, <a href="https://www.fiverr.com/ricardxalvarez" target="_blank">@ricardxalvarez</a>
 on Instagram.</p>
-<p>&#9657 😎 Hobbies: I'm a huge fan of Calculus even though I haven't ever understood Green's theorem, and also a fan of listening to music, in fact, I want to learn how to play the guitar.</p>
+<p>&#9657 😎 I like: I'm a huge fan of Calculus even though I haven't ever understood Green's theorem, and also a fan of listening to music, in fact, I want to learn how to play the guitar.</p>
 <p>&#9657 ⚡ Fun fact: I haven't ever got a job that is not from home.</p>
 
 <h3 align="left">Languages and Tools:</h3>
