@@ -4,7 +4,7 @@
 <p>&#9657 🌱 I’m currently learning React Native.</p>
 <p>&#9657 👯 I’m looking to collaborate on MERN Stack projects.</p>
 <p>&#9657 💬 Ask me about JavaScript.</p>
-<p>&#9657 📫 How to reach me: <a href="https://www.fiverr.com/ricardxalvarez" target="_blank">ricardxalvarez</a> on Fiverr, <a href="https://www.fiverr.com/ricardxalvarez" target="_blank">@ricardxalvarez</a>
+<p>&#9657 📫 How to reach me: <a href="https://www.fiverr.com/ricardxalvarez" target="_blank">ricardxalvarez</a> on Fiverr, <a href="https://www.instagram.com/ricardxalvarez" target="_blank">@ricardxalvarez</a>
 on Instagram.</p>
 <p>&#9657 😎 I like: I'm a huge fan of Calculus even though I haven't ever understood Green's theorem, and also a fan of listening to music, in fact, I want to learn how to play the guitar.</p>
 <p>&#9657 ⚡ Fun fact: I haven't ever got a job that is not from home.</p>
@@ -14,8 +14,6 @@ on Instagram.</p>
 
 <h3 align="left">Statistics:</h3>
 
-<p><img align="left" background="black" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardxalvarez&show_icons=true&locale=en&layout=compact" alt="ricardxalvarez" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardxalvarez&show_icons=true&locale=en&layout=compact&bg_color=151515&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc" alt="ricardxalvarez" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardxalvarez&show_icons=true&locale=en" alt="ricardxalvarez" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardxalvarez&" alt="ricardxalvarez" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardxalvarez&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="ricardxalvarez" /></p>
