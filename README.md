@@ -1,5 +1,5 @@
 ### Hello, I'm Ricardo 👋
-<img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" align="right" width="350" margin="20">
+<img style="margin: 20px;" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" align="right" width="350" margin="20">
 <p>&#9657 🔭 I’m currently working as Freelancer on Fiverr.</p>
 <p>&#9657 🌱 I’m currently learning React Native.</p>
 <p>&#9657 👯 I’m looking to collaborate on MERN Stack projects.</p>
