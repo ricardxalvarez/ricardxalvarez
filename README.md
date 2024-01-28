@@ -1,7 +1,7 @@
 ### Hello, I'm Ricardo 👋
 <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" align="right" width="350">
 <p>&#9657 🔭 I’m currently working as Freelancer on Fiverr.</p>
-<p>&#9657 🌱 I’m currently learning React Native.</p>
+<p>&#9657 🌱 I’m currently learning Swift.</p>
 <p>&#9657 👯 I’m looking to collaborate on MERN Stack projects.</p>
 <p>&#9657 💬 Ask me about JavaScript.</p>
 <p>&#9657 📫 How to reach me: <a href="https://www.fiverr.com/ricardxalvarez" target="_blank">ricardxalvarez</a> on Fiverr, <a href="https://www.instagram.com/ricardxalvarez" target="_blank">@ricardxalvarez</a>
